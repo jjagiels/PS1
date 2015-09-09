@@ -1,6 +1,6 @@
 package MainPackage;
 
-public class GibbonsB {
+public class JagielskiJ {
 	public static void HelloWorld(){
 		
 		System.out.println("Hello World");
